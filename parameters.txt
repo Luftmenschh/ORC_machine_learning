@@ -1,3 +1,0 @@
-The input parameters are pump inlet and outlet temperature and pressure, evaporator inlet and outlet temperature and pressure, heat source inlet and outlet temperature, heat sink inlet and outlet temperature, condenser inlet and outlet temperature, condenser inlet pressure, setting heat source temperature and pump motor speed. There are 17 parameters.
-
-The output parameter is the evaporator outlet pressure after the system has been running for a period of time (I tested it for 60 seconds and 120 seconds when running the project)
